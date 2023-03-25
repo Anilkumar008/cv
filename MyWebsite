@@ -1,0 +1,112 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anil Kumar</title>
+  </head>
+  <body>
+    <h1>Anil Kumar</h1>
+    <p>
+      My name is <strong>Anil</strong> and I'm a Software Developer, I belong to
+      Deoria district situated in Uttar Pardesh.
+    </p>
+    <hr />
+    <h3>Education</h3>
+    <ul>
+      <li>
+        <strong>B.Tech</strong> in <strong>Information Technology</strong>
+      </li>
+      <li><strong>Intermediate</strong></li>
+      <li><strong>High School</strong></li>
+    </ul>
+    <hr />
+    <h3>Hobbies</h3>
+    <ul>
+      <li>Playing Chess</li>
+      <li>Listening Music & Singing</li>
+      <li>Internet Surfing</li>
+    </ul>
+    <hr />
+    <h3>Work Experience</h3>
+    <ul>
+      <li><strong>Tech Mahindra</strong></li>
+      <ol>
+        <em>Associate Support</em>
+      </ol>
+    </ul>
+    <ul>
+      <li><strong>Concentrix</strong></li>
+      <ol>
+        <em>Associate Support</em>
+      </ol>
+    </ul>
+    <ul>
+      <li><strong>Policy Bazaar</strong></li>
+      <ol>
+        <em>Sales Advisor</em>
+      </ol>
+    </ul>
+    <ul>
+      <li><strong>Startek</strong></li>
+      <ol>
+        <em>Associate Support</em>
+      </ol>
+    </ul>
+    <hr />
+    <h3>Skills Set</h3>
+    <table>
+      <tr>
+        <td>
+          <table>
+            <td>HTML 5</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>CSS 3</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>JavaScript ES6</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>Bootstrap</td>
+                <td>⭐⭐⭐⭐⭐</td>
+          </table>
+        </td>
+        <td>
+          <table>
+            <td>Mongo DB</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>React Js</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>Node Js</td>
+                <td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                <td>Express Js</td>
+                <td>⭐⭐⭐⭐⭐</td>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <hr>
+    <h2>My Contact Details</h2>
+    <p> My Fictional Address</p>
+    Myemail@gmail.com
+    <form action="mailto:anilkumar.com" method="post">
+      <label>Your name:</label>
+      <input type="text"><br>
+      <label>Your email</label>
+      <input type="email"><br>
+      <label>Your Message</label>
+      <input type="textarea"><br>
+      <button>Submit</button>
+    </form>
+  </body>
+</html>
